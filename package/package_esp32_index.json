@@ -38,7 +38,7 @@
             {
               "packager": "esp32",
               "name": "esptool",
-              "version": "fe69994"
+              "version": "9072736"
             }
           ]
         }
